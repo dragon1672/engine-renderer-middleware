@@ -1,14 +1,24 @@
 /**
 * Author: Anthony Corbin
 * Project: Engine Renderer
-* Release Date: ??/??/??
-*
+* Release Date: 6/30/2014
+**/
+
+/**
+* Requires
+* 
+* Glew
+* Neumont Tools
+* QT
+* GLM
 **/
 
 //TO-DO:
- * [item]
+ * Insert more comments
 
 
 //Changes:
-5/28/14 | [name]
- * [message]
+Sun 06/29/2014 
+-- Anthony Corbin 
+-*first export 
+--------------------- 
