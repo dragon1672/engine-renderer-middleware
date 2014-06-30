@@ -4,14 +4,16 @@
 * Release Date: 6/30/2014
 **/
 
-/**
-* Requires
-* 
-* Glew
-* Neumont Tools
-* QT
-* GLM
-**/
+## Notes ##
+Cam currently moves with right mouse
+
+
+## Library Requirements ##
+Glew
+Neumont Tools
+QT
+GLM
+
 
 //TO-DO:
  * Insert more comments
