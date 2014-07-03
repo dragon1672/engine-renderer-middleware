@@ -32,3 +32,7 @@ Wed 07/02/2014
 - -- Anthony Corbin 
 - * DebugMenu supports tabs and watching char * 
 --------------------- 
+Wed 07/02/2014 
+- -- Anthony Corbin 
+- * Extending the number of shaderPrams for renderables 
+--------------------- 
