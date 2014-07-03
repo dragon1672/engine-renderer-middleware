@@ -28,3 +28,7 @@ Tue 07/01/2014
 - -- Anthony Corbin 
 - * Adding method to save view matrix 
 --------------------- 
+Wed 07/02/2014 
+- -- Anthony Corbin 
+- * DebugMenu supports tabs and watching char * 
+--------------------- 
