@@ -11,10 +11,10 @@ __For Neumont Students__
 ### How do I get set up? ###
 
 * Requires following middleware
-** Glew
-** GLM
-** NeumontTools
-** QT
+  * Glew
+  * GLM
+  * NeumontTools
+  * QT
 * Remember to copy the binaries to you executing directory
 
 ### Who do I talk to? ###
