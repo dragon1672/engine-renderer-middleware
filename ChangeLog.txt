@@ -40,3 +40,7 @@ Thu 07/03/2014
 - -- Anthony Corbin 
 - * adding pre draw virtual functions 
 --------------------- 
+Sat 07/05/2014 
+- -- Anthony Corbin 
+- * Bug fixes, introducing OBJ loading 
+--------------------- 
