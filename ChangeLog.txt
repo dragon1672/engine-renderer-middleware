@@ -44,3 +44,7 @@ Sat 07/05/2014
 - -- Anthony Corbin 
 - * Bug fixes, introducing OBJ loading 
 --------------------- 
+Sun 07/06/2014 
+- -- Anthony Corbin 
+- * MaxDT implemented with a default of .02 
+--------------------- 
