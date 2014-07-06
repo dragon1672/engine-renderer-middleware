@@ -9,12 +9,15 @@ __For Neumont Students__
 * 1.0.0
 
 ### How do I get set up? ###
-
+ * Red 
+        + Green 
+            * dark  green 
+            * lime  
 * Requires following middleware
-  * Glew
-  * GLM
-  * NeumontTools
-  * QT
+    * Glew
+    * GLM
+    * NeumontTools
+    * QT
 * Remember to copy the binaries to you executing directory
 
 ### Who do I talk to? ###
