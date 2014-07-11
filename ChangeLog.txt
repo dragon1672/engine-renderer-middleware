@@ -52,3 +52,7 @@ Fri 07/11/2014
 - -- Anthony Corbin 
 - * Cam speed exposed and based off dt 
 --------------------- 
+Fri 07/11/2014 
+- -- Anthony Corbin 
+- * Bug Fix 
+--------------------- 
