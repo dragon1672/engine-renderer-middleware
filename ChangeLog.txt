@@ -60,3 +60,7 @@ Fri 07/11/2014
 - -- Anthony Corbin 
 - * Extending texture ability to allow flippin 
 --------------------- 
+Sat 07/12/2014 
+- -- Anthony Corbin 
+- * Debug Menu expansion, includes setting up default tab, getting/setting active tab 
+--------------------- 
