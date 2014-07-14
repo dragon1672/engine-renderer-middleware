@@ -64,3 +64,11 @@ Sat 07/12/2014
 - -- Anthony Corbin 
 - * Debug Menu expansion, includes setting up default tab, getting/setting active tab 
 --------------------- 
+Sun 07/13/2014 
+- -- Anthony Corbin 
+- * Making NUShapeEditor have method to export tangents into color buffer 
+--------------------- 
+Sun 07/13/2014 
+- -- Anthony Corbin 
+- * Bug fixes 
+--------------------- 
