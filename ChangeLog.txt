@@ -76,3 +76,7 @@ Tue 07/15/2014
 - -- Anthony Corbin 
 - * Load image from binary or raw QImage 
 --------------------- 
+Thu 07/17/2014 
+- -- Anthony Corbin 
+- * bug fixes, assert false on shader/texture/binary load failure, all savedUniforms are now void pointers 
+--------------------- 
