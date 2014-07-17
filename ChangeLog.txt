@@ -80,3 +80,11 @@ Thu 07/17/2014
 - -- Anthony Corbin 
 - * bug fixes, assert false on shader/texture/binary load failure, all savedUniforms are now void pointers 
 --------------------- 
+Thu 07/17/2014 
+- -- Anthony Corbin 
+- * exposing saveViewTransform 
+--------------------- 
+Thu 07/17/2014 
+- -- Anthony Corbin 
+- * Providing a Scene manager for creating scenes
+--------------------- 
