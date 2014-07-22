@@ -88,3 +88,7 @@ Thu 07/17/2014
 - -- Anthony Corbin 
 - * Providing a Scene manager for creating scenes
 --------------------- 
+Tue 07/22/2014 
+- -- Anthony Corbin 
+- * This is a big one, Passinfo has been introduced, this every output managed by WidgetRenderer is based off PassInfos.  Calling addRenderable will send the renderable to the current default PassInfo.  Scenes have seperate cams and no longer require enable/disable.  After calling PassInfo::inittextures, the pass info will render to the texture id.  In a new PassInfo the cam is disabled by default, you will have to call myPassInfo-  A ,massive texture refactor is planned for the future 
+--------------------- 
