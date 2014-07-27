@@ -95,12 +95,6 @@ Tue 07/22/2014
 Sat 07/26/2014 
 - -- Anthony Corbin 
 - * cam bug fix, ability to update a texture from ID, 
---------------------- 
-Sat 07/26/2014 
-- -- Anthony Corbin 
 - * DebugMenu refactor 
---------------------- 
-Sun 07/27/2014 
-- -- Anthony Corbin 
 - * ability to slide/watch int and vec4 
 --------------------- 
