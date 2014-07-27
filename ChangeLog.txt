@@ -100,3 +100,7 @@ Sat 07/26/2014
 - -- Anthony Corbin 
 - * DebugMenu refactor 
 --------------------- 
+Sun 07/27/2014 
+- -- Anthony Corbin 
+- * ability to slide/watch int and vec4 
+--------------------- 
