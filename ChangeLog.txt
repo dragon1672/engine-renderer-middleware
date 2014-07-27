@@ -102,3 +102,7 @@ Sun 07/27/2014
 - -- Anthony Corbin 
 - * More shaders 
 --------------------- 
+Sun 07/27/2014 
+- -- Anthony Corbin 
+- * Unlimited Shaders/uniforms/geos/renderables, matrix info saves rotation/scale/trans mat which can be sent to shader or in debug menu, debug menu can watch mat3 and mat4 (still working on visuals) 
+--------------------- 
