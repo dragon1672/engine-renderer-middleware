@@ -110,3 +110,7 @@ Mon 07/28/2014
 - -- Anthony Corbin 
 - * cam saves lookat allowing it to be passed to shaders 
 --------------------- 
+Mon 07/28/2014 
+- -- Anthony Corbin 
+- * Bug Fix 
+--------------------- 
