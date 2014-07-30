@@ -118,3 +118,7 @@ Tue 07/29/2014
 - -- Anthony Corbin 
 - * Ability to save perspectiveMat 
 --------------------- 
+Wed 07/30/2014 
+- -- Anthony Corbin 
+- * Bug Fix 
+--------------------- 
