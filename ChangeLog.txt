@@ -126,3 +126,7 @@ Wed 07/30/2014
 - -- Anthony Corbin 
 - * Ability to load Cube map texture, overloads for ShaderProgram::saveUniform added, MatrixInfo::setScale added 
 --------------------- 
+Thu 07/31/2014 
+- -- Anthony Corbin 
+- * Ansel Fix? 
+--------------------- 
