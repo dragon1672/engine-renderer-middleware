@@ -53,6 +53,7 @@ public:
 	void passUniform(uint location, ParameterType parameterType, const void * value);
 
 	//use these to add shader wide uniforms
+	void saveUniform(const char * name, const bool& value);
 	void saveUniform(const char * name, const float& value);
 	void saveUniform(const char * name, const glm::vec3& value);
 	void saveUniform(const char * name, const glm::vec4& value);
@@ -97,12 +98,12 @@ public:
 	static GLuint load2DTexture(ubyte * data, uint width, uint height, GLenum type, GLenum type2);
 	static GLuint load2DTexture(ImageData& imageData);
 
-	static void update2DTexture(uint texture, QImage& image, GLenum type = GL_RGBA);
-	static void update2DTexture(uint texture, QImage& image, GLenum type, GLenum type2);
-	static void update2DTexture(uint texture, QString& filePath, bool flipHorz = false, bool flipVert = false);
-	static void update2DTexture(uint texture, ubyte * data, uint width, uint height, GLenum type = GL_RGBA);
-	static void update2DTexture(uint texture, ubyte * data, uint width, uint height, GLenum type, GLenum type2);
-	static void update2DTexture(uint texture, ImageData& imageData);
+	static void update2DTexture(uint textureID, uint slot, QImage& image, GLenum type = GL_RGBA);
+	static void update2DTexture(uint textureID, uint slot, QImage& image, GLenum type, GLenum type2);
+	static void update2DTexture(uint textureID, uint slot, QString& filePath, bool flipHorz = false, bool flipVert = false);
+	static void update2DTexture(uint textureID, uint slot, ubyte * data, uint width, uint height, GLenum type = GL_RGBA);
+	static void update2DTexture(uint textureID, uint slot, ubyte * data, uint width, uint height, GLenum type, GLenum type2);
+	static void update2DTexture(uint textureID, uint slot, ImageData& imageData);
 
 	static GLuint loadCubeTexture(QString& posX,QString& negX,QString& posY,QString& negY,QString& posZ,QString& negZ);
 	static GLuint loadCubeTexture(QString& directory,QString& posX,QString& negX,QString& posY,QString& negY,QString& posZ,QString& negZ);
