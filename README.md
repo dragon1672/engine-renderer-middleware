@@ -20,4 +20,4 @@ __For Neumont Students__
 
 * Any questions on how this engine works
 * Email me at: aCorbin@student.neumont.edu
-* report bugs here https://bitbucket.org/anthony_corbin/engine-renderer-middleware/issues?status=new&status=open
+* report bugs here
